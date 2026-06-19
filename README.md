@@ -1,1 +1,1 @@
-start_all.bat
+clic start_all.bat
