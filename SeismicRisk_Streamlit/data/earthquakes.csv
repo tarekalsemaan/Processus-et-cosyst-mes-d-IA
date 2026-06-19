@@ -1,0 +1,255 @@
+source,event_id,time_utc,latitude,longitude,depth_km,magnitude,place,alert,tsunami,status,url,data_collected_at,risk_level,has_coordinates
+USGS,us7000sqcw,2026-06-03 17:23:30.992000+00:00,51.2954,159.6858,10.0,5.2,"202 km SSE of Vilyuchinsk, Russia",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcw,2026-06-04 03:33:02.394691+00:00,Low,True
+USGS,us7000sqcu,2026-06-03 17:21:24.203000+00:00,-8.2012,-74.2436,139.126,5.2,"39 km NE of San Fernando, Peru",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcu,2026-06-04 03:33:02.394941+00:00,Low,True
+USGS,nc75370186,2026-06-03 12:45:36.790000+00:00,40.3646666666667,-125.017833333333,10.0,5.1,"62 km W of Petrolia, CA",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/nc75370186,2026-06-04 03:33:02.395108+00:00,Low,True
+USGS,us7000sq93,2026-06-03 10:53:54.074000+00:00,41.8967,-126.1861,10.0,5.7,"154 km WSW of Pistol River, Oregon",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq93,2026-06-04 03:33:02.395262+00:00,Medium,True
+USGS,us7000sq90,2026-06-03 10:20:37.618000+00:00,-20.4457,173.0405,10.0,5.6,Vanuatu region,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq90,2026-06-04 03:33:02.395473+00:00,Medium,True
+USGS,us7000sq7x,2026-06-03 06:58:56.791000+00:00,38.8658,72.278,10.0,5.1,"76 km S of Daroot-Korgon, Kyrgyzstan",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq7x,2026-06-04 03:33:02.395722+00:00,Low,True
+USGS,us7000spya,2026-06-01 23:01:17.102000+00:00,-2.0575,138.8427,29.55,5.4,"207 km WNW of Abepura, Indonesia",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spya,2026-06-04 03:33:02.395950+00:00,Low,True
+USGS,us7000spxm,2026-06-01 22:12:36.284000+00:00,39.325,15.7796,243.0,6.2,"22 km WSW of Scarcelli, Italy",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spxm,2026-06-04 03:33:02.396178+00:00,Medium,True
+USGS,us7000sps9,2026-06-01 05:16:15.532000+00:00,-18.1208,-178.1836,567.977,5.0,"264 km E of Levuka, Fiji",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sps9,2026-06-04 03:33:02.396348+00:00,Low,True
+USGS,us7000sprv,2026-06-01 03:40:11.053000+00:00,-35.387,-104.6576,10.0,5.3,southeast of Easter Island,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sprv,2026-06-04 03:33:02.396516+00:00,Low,True
+USGS,us7000spru,2026-06-01 03:34:30.871000+00:00,30.7158,141.7476,11.0,5.7,"Izu Islands, Japan region",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spru,2026-06-04 03:33:02.396680+00:00,Medium,True
+USGS,us7000spqc,2026-05-31 21:34:18.026000+00:00,-32.8047,-71.8593,25.0,6.0,"33 km NW of Valparaíso, Chile",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spqc,2026-06-04 03:33:02.396843+00:00,Medium,True
+USGS,us7000sppt,2026-05-31 19:15:39.818000+00:00,-30.5996,-179.0432,98.548,5.0,Kermadec Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sppt,2026-06-04 03:33:02.396988+00:00,Low,True
+USGS,us7000splv,2026-05-31 03:57:05.760000+00:00,-24.0984,-179.7084,486.212,5.0,south of the Fiji Islands,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000splv,2026-06-04 03:33:02.397150+00:00,Low,True
+USGS,us7000splm,2026-05-31 02:48:01.280000+00:00,-17.3616,167.751,35.0,5.0,"72 km NW of Port-Vila, Vanuatu",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000splm,2026-06-04 03:33:02.397274+00:00,Low,True
+USGS,us7000spkp,2026-05-30 22:45:51.647000+00:00,-7.2968,147.4544,68.854,5.0,"81 km SE of Lae, Papua New Guinea",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkp,2026-06-04 03:33:02.397400+00:00,Low,True
+USGS,us7000spkc,2026-05-30 21:27:25.699000+00:00,11.9084,-59.1029,35.0,5.6,"137 km SSE of Oistins, Barbados",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkc,2026-06-04 03:33:02.397550+00:00,Medium,True
+USGS,us7000spie,2026-05-30 11:06:52.334000+00:00,13.8975,51.7816,10.0,5.0,"195 km NNW of Kilmia, Yemen",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spie,2026-06-04 03:33:02.397739+00:00,Low,True
+USGS,us7000spgb,2026-05-30 00:38:14.852000+00:00,-59.1715,-26.3858,95.738,5.0,South Sandwich Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spgb,2026-06-04 03:33:02.397926+00:00,Low,True
+USGS,us7000spfj,2026-05-29 21:21:44.016000+00:00,0.9071,-29.1814,10.0,5.2,central Mid-Atlantic Ridge,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spfj,2026-06-04 03:33:02.398116+00:00,Low,True
+USGS,us7000spd9,2026-05-29 16:05:58.630000+00:00,50.0568,159.5123,10.0,5.2,"250 km ESE of Severo-Kuril’sk, Russia",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000spd9,2026-06-04 03:33:02.398316+00:00,Low,True
+USGS,us7000sp82,2026-05-29 06:55:52.924000+00:00,42.2295,88.3187,10.0,5.3,"106 km SW of Turpan, China",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp82,2026-06-04 03:33:02.398452+00:00,Low,True
+USGS,us7000sp7p,2026-05-29 05:32:39.548000+00:00,-18.4158,-71.4602,10.0,5.1,"86 km S of Pacocha, Peru",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp7p,2026-06-04 03:33:02.398623+00:00,Low,True
+USGS,us7000sp4a,2026-05-28 16:18:09.965000+00:00,19.6577,-109.4358,10.0,5.3,Revilla Gigedo Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp4a,2026-06-04 03:33:02.398758+00:00,Low,True
+USGS,us7000snzn,2026-05-28 01:46:18.726000+00:00,-10.451,124.473,10.0,5.1,"68 km SSE of Soe, Indonesia",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snzn,2026-06-04 03:33:02.398893+00:00,Low,True
+USGS,us7000snz9,2026-05-28 00:25:21.947000+00:00,51.7852,-175.9331,58.274,5.2,"49 km ESE of Adak, Alaska",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snz9,2026-06-04 03:33:02.399029+00:00,Low,True
+USGS,us7000snxg,2026-05-27 19:09:53.651000+00:00,-18.0405,-176.563,10.0,5.3,"280 km WNW of Neiafu, Tonga",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snxg,2026-06-04 03:33:02.399178+00:00,Low,True
+USGS,us7000snvt,2026-05-27 15:01:11.567000+00:00,-50.5213,139.3037,10.0,6.0,western Indian-Antarctic Ridge,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvt,2026-06-04 03:33:02.399334+00:00,Medium,True
+USGS,us7000snvr,2026-05-27 14:51:04.419000+00:00,-50.5174,139.3678,10.0,6.0,western Indian-Antarctic Ridge,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvr,2026-06-04 03:33:02.399460+00:00,Medium,True
+USGS,us7000sntr,2026-05-27 06:24:16.451000+00:00,0.4707,125.8106,19.144,5.1,"131 km SE of Bitung, Indonesia",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sntr,2026-06-04 03:33:02.399582+00:00,Low,True
+USGS,us7000snt8,2026-05-27 05:23:30.376000+00:00,-22.282,-68.7512,102.493,5.1,"26 km NE of Calama, Chile",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snt8,2026-06-04 03:33:02.399735+00:00,Low,True
+USGS,us7000snpf,2026-05-26 19:25:11.739000+00:00,-17.2705,-174.2097,118.289,5.0,"152 km SSW of Hihifo, Tonga",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpf,2026-06-04 03:33:02.399857+00:00,Low,True
+USGS,us7000snpe,2026-05-26 19:12:31.037000+00:00,-17.6654,-172.621,10.0,5.4,"180 km NE of Neiafu, Tonga",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpe,2026-06-04 03:33:02.399977+00:00,Low,True
+USGS,us7000snpd,2026-05-26 18:56:36.969000+00:00,13.0008,57.6465,10.0,5.1,Owen Fracture Zone region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpd,2026-06-04 03:33:02.400152+00:00,Low,True
+USGS,us7000sntl,2026-05-26 16:22:50.365000+00:00,-58.6442,-152.5127,10.0,5.1,Pacific-Antarctic Ridge,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sntl,2026-06-04 03:33:02.400310+00:00,Low,True
+USGS,us6000t05n,2026-05-26 02:08:03.420000+00:00,-28.3135,-176.5972,10.0,5.3,Kermadec Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000t05n,2026-06-04 03:33:02.400434+00:00,Low,True
+USGS,us6000t04s,2026-05-25 21:52:20.035000+00:00,-22.385,-68.611,109.0,6.9,"33 km ENE of Calama, Chile",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04s,2026-06-04 03:33:02.400576+00:00,Medium,True
+USGS,us6000t04f,2026-05-25 20:39:20.664000+00:00,1.1115,126.0911,31.057,5.6,"113 km ESE of Bitung, Indonesia",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04f,2026-06-04 03:33:02.400729+00:00,Medium,True
+USGS,us6000t02k,2026-05-25 16:12:47.277000+00:00,-57.976,-25.484,35.0,5.0,South Sandwich Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000t02k,2026-06-04 03:33:02.400854+00:00,Low,True
+USGS,us6000t028,2026-05-25 15:00:30.276000+00:00,-4.7914,153.1957,55.928,5.0,"114 km ESE of Kokopo, Papua New Guinea",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000t028,2026-06-04 03:33:02.401065+00:00,Low,True
+USGS,us6000t015,2026-05-25 09:25:39.358000+00:00,-53.4118,25.0096,10.0,5.0,south of Africa,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000t015,2026-06-04 03:33:02.401271+00:00,Low,True
+USGS,us6000szzw,2026-05-25 02:32:38.428000+00:00,8.0315,126.9336,35.0,5.0,"54 km E of Santa Maria, Philippines",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szzw,2026-06-04 03:33:02.401429+00:00,Low,True
+USGS,us6000szxz,2026-05-24 16:48:41.017000+00:00,9.2997,126.2839,34.0,5.5,"10 km ENE of Cortes, Philippines",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxz,2026-06-04 03:33:02.401597+00:00,Medium,True
+USGS,us6000szxh,2026-05-24 13:19:05.760000+00:00,9.1379,126.5217,53.181,5.1,"33 km ENE of La Paz, Philippines",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh,2026-06-04 03:33:02.401736+00:00,Low,True
+USGS,us6000szt5,2026-05-23 21:49:16.864000+00:00,51.7344,-170.3491,7.153,5.3,"168 km SW of Nikolski, Alaska",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szt5,2026-06-04 03:33:02.401890+00:00,Low,True
+USGS,us6000szx2,2026-05-23 19:19:06.591000+00:00,-35.7227,-104.9819,10.0,5.3,southeast of Easter Island,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szx2,2026-06-04 03:33:02.402010+00:00,Low,True
+USGS,us6000szq3,2026-05-23 12:40:28.190000+00:00,-4.5338,102.7044,68.472,5.3,"82 km SW of Pagar Alam, Indonesia",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3,2026-06-04 03:33:02.402130+00:00,Low,True
+USGS,hv74966427,2026-05-23 07:46:01.480000+00:00,19.3403333333333,-155.8425,22.64,5.96,"13 km S of Honaunau-Napoopoo, Hawaii",yellow,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/hv74966427,2026-06-04 03:33:02.402301+00:00,Medium,True
+USGS,us6000szmu,2026-05-23 05:41:34.889000+00:00,-47.488,99.9967,10.0,5.7,southeast Indian Ridge,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szmu,2026-06-04 03:33:02.402431+00:00,Medium,True
+USGS,us6000szk5,2026-05-22 19:30:38.517000+00:00,-10.7482,164.3652,10.0,5.3,"156 km W of Lata, Solomon Islands",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szk5,2026-06-04 03:33:02.402600+00:00,Low,True
+USGS,us6000szjs,2026-05-22 17:16:27.418000+00:00,33.5016,90.2756,10.0,5.0,"280 km NW of Nagqu, China",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szjs,2026-06-04 03:33:02.402742+00:00,Low,True
+USGS,us6000szgm,2026-05-22 12:16:14.095000+00:00,52.5074,-171.7064,14.926,5.6,"173 km E of Atka, Alaska",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgm,2026-06-04 03:33:02.402912+00:00,Medium,True
+USGS,us6000szgb,2026-05-22 10:08:19.139000+00:00,-2.857,147.713,10.0,5.7,"103 km SSE of Lorengau, Papua New Guinea",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgb,2026-06-04 03:33:02.403036+00:00,Medium,True
+USGS,us6000sze1,2026-05-22 01:06:52.610000+00:00,16.5273,-46.6299,10.0,5.1,northern Mid-Atlantic Ridge,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sze1,2026-06-04 03:33:02.403161+00:00,Low,True
+USGS,us6000szdy,2026-05-22 01:05:08.540000+00:00,1.0433,126.067,35.0,5.9,"113 km ESE of Bitung, Indonesia",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000szdy,2026-06-04 03:33:02.403248+00:00,Medium,True
+USGS,us6000sz3x,2026-05-20 23:01:01.063000+00:00,-56.1584,-28.1034,137.015,5.7,South Sandwich Islands region,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz3x,2026-06-04 03:33:02.403335+00:00,Medium,True
+USGS,us6000sz1t,2026-05-20 18:36:39.632000+00:00,-54.7454,-118.6623,10.0,5.0,southern East Pacific Rise,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1t,2026-06-04 03:33:02.403423+00:00,Low,True
+USGS,us6000sz1d,2026-05-20 17:43:01.910000+00:00,-55.984,-122.2988,10.0,6.6,southern East Pacific Rise,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1d,2026-06-04 03:33:02.403518+00:00,Medium,True
+USGS,us6000syy1,2026-05-20 10:28:49.290000+00:00,-8.2248,119.2187,10.0,5.2,"45 km NE of Sape, Indonesia",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1,2026-06-04 03:33:02.403607+00:00,Low,True
+USGS,us6000syxz,2026-05-20 09:40:32.226000+00:00,-17.312,175.9863,10.0,5.1,"159 km WNW of Lautoka, Fiji",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syxz,2026-06-04 03:33:02.403694+00:00,Low,True
+USGS,us6000syx6,2026-05-20 06:00:16.653000+00:00,38.2157,38.6061,10.0,5.4,"19 km N of Sincik, Turkey",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syx6,2026-06-04 03:33:02.403783+00:00,Low,True
+USGS,us6000syw4,2026-05-20 02:46:24.884000+00:00,27.392,128.7336,42.0,5.9,"8 km E of Wadomari, Japan",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw4,2026-06-04 03:33:02.403872+00:00,Medium,True
+USGS,us6000syx0,2026-05-20 02:46:19.106000+00:00,-41.3229,-89.5644,10.0,5.0,southeast of Easter Island,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syx0,2026-06-04 03:33:02.403959+00:00,Low,True
+USGS,us6000syt5,2026-05-19 17:57:54.411000+00:00,-14.1767,-75.5147,58.799,5.8,"19 km E of Pampa de Tate, Peru",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syt5,2026-06-04 03:33:02.404044+00:00,Medium,True
+USGS,us6000synm,2026-05-19 02:29:24.366000+00:00,-18.1511,168.0931,27.0,5.7,"51 km SSW of Port-Vila, Vanuatu",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000synm,2026-06-04 03:33:02.404131+00:00,Medium,True
+USGS,us6000sykw,2026-05-18 18:50:00.193000+00:00,-54.2575,-1.2453,10.0,5.3,Bouvet Island region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sykw,2026-06-04 03:33:02.404220+00:00,Low,True
+USGS,us6000syik,2026-05-18 13:44:26.116000+00:00,24.4943,109.2738,10.0,5.1,"23 km NW of Liuzhou, China",orange,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syik,2026-06-04 03:33:02.404325+00:00,Low,True
+USGS,us6000syh2,2026-05-18 07:34:30.448000+00:00,-28.5299,74.2599,10.0,5.2,Mid-Indian Ridge,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syh2,2026-06-04 03:33:02.404413+00:00,Low,True
+USGS,us6000syg1,2026-05-18 02:10:41.440000+00:00,-43.4469,-82.4535,10.0,5.4,West Chile Rise,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg1,2026-06-04 03:33:02.404501+00:00,Low,True
+USGS,us6000syg0,2026-05-18 02:05:24.601000+00:00,16.4177,96.3726,10.0,5.2,"41 km SSE of Syriam, Burma (Myanmar)",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0,2026-06-04 03:33:02.404587+00:00,Low,True
+USGS,us6000syfk,2026-05-17 22:58:34.065000+00:00,-6.4262,147.5801,77.166,5.0,"32 km WNW of Finschhafen, Papua New Guinea",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syfk,2026-06-04 03:33:02.404674+00:00,Low,True
+USGS,us6000sye4,2026-05-17 16:21:06.227000+00:00,24.4472,109.2486,10.0,5.0,"21 km NW of Liuzhou, China",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sye4,2026-06-04 03:33:02.404762+00:00,Low,True
+USGS,us6000syc2,2026-05-17 08:04:17.327000+00:00,50.7292,157.3884,44.0,5.4,"89 km E of Severo-Kuril’sk, Russia",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syc2,2026-06-04 03:33:02.404848+00:00,Low,True
+USGS,us6000syby,2026-05-17 07:51:56.759000+00:00,-2.9481,147.7111,10.0,5.0,"112 km SSE of Lorengau, Papua New Guinea",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000syby,2026-06-04 03:33:02.404935+00:00,Low,True
+USGS,us6000sy90,2026-05-16 15:58:04.517000+00:00,-17.9035,169.0942,10.0,5.5,"84 km ESE of Port-Vila, Vanuatu",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy90,2026-06-04 03:33:02.405021+00:00,Medium,True
+USGS,us6000sy8k,2026-05-16 15:17:58.214000+00:00,-8.5885,160.8774,37.762,5.7,"27 km NE of Auki, Solomon Islands",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy8k,2026-06-04 03:33:02.405108+00:00,Medium,True
+USGS,us6000sy84,2026-05-16 14:50:05.948000+00:00,17.4295,-61.2938,51.245,6.0,"60 km ESE of Codrington, Antigua and Barbuda",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy84,2026-06-04 03:33:02.405199+00:00,Medium,True
+USGS,us6000sy7u,2026-05-16 14:07:54.607000+00:00,-17.7886,169.1976,10.0,5.2,"93 km E of Port-Vila, Vanuatu",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7u,2026-06-04 03:33:02.405288+00:00,Low,True
+USGS,us6000sy7l,2026-05-16 12:59:30.857000+00:00,-17.8693,169.1748,10.0,5.3,"92 km E of Port-Vila, Vanuatu",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7l,2026-06-04 03:33:02.405374+00:00,Low,True
+USGS,us6000sy76,2026-05-16 11:25:44.044000+00:00,6.8189,124.695,10.0,5.0,"4 km SW of Badak, Philippines",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy76,2026-06-04 03:33:02.405461+00:00,Low,True
+USGS,us6000sy5x,2026-05-16 06:48:55.360000+00:00,-31.9282,-178.203,10.0,5.0,Kermadec Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy5x,2026-06-04 03:33:02.405547+00:00,Low,True
+USGS,us6000sxwq,2026-05-15 11:22:01.649000+00:00,38.9127,142.2498,43.592,6.7,"49 km ESE of Ōfunato, Japan",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxwq,2026-06-04 03:33:02.405633+00:00,Medium,True
+USGS,us6000sxu9,2026-05-15 01:13:58.743000+00:00,-3.0286,147.7949,10.0,5.3,"124 km SSE of Lorengau, Papua New Guinea",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxu9,2026-06-04 03:33:02.405721+00:00,Low,True
+USGS,us6000sxqf,2026-05-14 17:53:13.718000+00:00,-6.1497,130.3809,137.0,6.2,"268 km WSW of Tual, Indonesia",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxqf,2026-06-04 03:33:02.405807+00:00,Medium,True
+USGS,us6000sxnw,2026-05-14 15:34:04.551000+00:00,25.1294,141.4667,139.505,5.2,"Volcano Islands, Japan region",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw,2026-06-04 03:33:02.405895+00:00,Low,True
+USGS,us6000sxn9,2026-05-14 12:48:22.202000+00:00,4.0895,-76.7348,117.101,5.3,"32 km WNW of Darien, Colombia",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxn9,2026-06-04 03:33:02.405980+00:00,Low,True
+USGS,us6000sxmm,2026-05-14 09:55:47.289000+00:00,-58.3477,-25.63,52.398,5.1,South Sandwich Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxmm,2026-06-04 03:33:02.406070+00:00,Low,True
+USGS,us6000sxk1,2026-05-13 22:01:06.625000+00:00,19.0885,121.233,35.0,5.3,"53 km N of Namuac, Philippines",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxk1,2026-06-04 03:33:02.406156+00:00,Low,True
+USGS,us6000sxdf,2026-05-13 08:12:59.760000+00:00,-55.3924,-28.2611,31.914,5.1,South Sandwich Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxdf,2026-06-04 03:33:02.406242+00:00,Low,True
+USGS,us6000sxd4,2026-05-13 06:36:37.861000+00:00,-55.3734,-28.3706,10.0,5.0,South Sandwich Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxd4,2026-06-04 03:33:02.406338+00:00,Low,True
+USGS,us6000sxc0,2026-05-13 03:08:35.413000+00:00,30.3404,138.3561,484.752,5.1,"Izu Islands, Japan region",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxc0,2026-06-04 03:33:02.406426+00:00,Low,True
+USGS,us6000sxaj,2026-05-12 21:53:43.461000+00:00,-21.5221,-174.3272,10.0,5.1,"68 km ESE of ‘Ohonua, Tonga",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj,2026-06-04 03:33:02.406513+00:00,Low,True
+USGS,us6000sx9x,2026-05-12 21:19:36.715000+00:00,-23.3501,-176.8356,154.0,5.7,"288 km SSW of Houma, Tonga",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx9x,2026-06-04 03:33:02.406599+00:00,Medium,True
+USGS,us6000sx5k,2026-05-12 15:39:30.733000+00:00,-10.6401,164.9581,64.72,5.6,"92 km W of Lata, Solomon Islands",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx5k,2026-06-04 03:33:02.406688+00:00,Medium,True
+USGS,us6000sx3v,2026-05-12 08:53:57.637000+00:00,4.7983,127.5163,120.156,5.0,"227 km SE of Pondaguitan, Philippines",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3v,2026-06-04 03:33:02.406775+00:00,Low,True
+USGS,us6000sx3h,2026-05-12 06:53:32.163000+00:00,23.2462,121.531,23.172,5.1,"81 km S of Hualien City, Taiwan",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3h,2026-06-04 03:33:02.406861+00:00,Low,True
+USGS,us6000swvm,2026-05-11 09:48:51.381000+00:00,-9.3115,159.1816,10.0,5.2,"72 km NW of Malango, Solomon Islands",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swvm,2026-06-04 03:33:02.406951+00:00,Low,True
+USGS,us6000swtz,2026-05-11 01:41:17.618000+00:00,27.3848,129.5696,10.0,5.0,"70 km ESE of Isen, Japan",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtz,2026-06-04 03:33:02.407037+00:00,Low,True
+USGS,us6000swte,2026-05-10 23:20:56.074000+00:00,-23.4759,-179.8946,551.905,5.0,south of the Fiji Islands,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swte,2026-06-04 03:33:02.407123+00:00,Low,True
+USGS,us6000swtd,2026-05-10 23:15:43.444000+00:00,-23.3879,-179.8953,560.698,5.1,south of the Fiji Islands,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtd,2026-06-04 03:33:02.407210+00:00,Low,True
+USGS,us6000sws5,2026-05-10 19:36:36.401000+00:00,20.5004,94.0661,54.234,5.0,"84 km W of Yenangyaung, Burma (Myanmar)",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sws5,2026-06-04 03:33:02.407296+00:00,Low,True
+USGS,us6000swr8,2026-05-10 16:41:43.270000+00:00,-16.8739,-173.3414,10.0,5.3,"112 km SSE of Hihifo, Tonga",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr8,2026-06-04 03:33:02.407383+00:00,Low,True
+USGS,us6000swr6,2026-05-10 16:34:33.201000+00:00,-5.285,145.648,93.275,5.3,"16 km WSW of Madang, Papua New Guinea",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr6,2026-06-04 03:33:02.407469+00:00,Low,True
+USGS,us6000swk8,2026-05-10 02:42:24.247000+00:00,-7.0199,131.9032,10.0,5.2,"180 km SSW of Tual, Indonesia",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk8,2026-06-04 03:33:02.407582+00:00,Low,True
+USGS,us6000swk0,2026-05-10 02:34:07.139000+00:00,-37.7571,-73.231,35.0,5.5,"15 km ENE of Cañete, Chile",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk0,2026-06-04 03:33:02.407685+00:00,Medium,True
+USGS,us6000swhy,2026-05-09 20:39:49.486000+00:00,-26.868,-176.6645,10.0,5.3,south of the Fiji Islands,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swhy,2026-06-04 03:33:02.407792+00:00,Low,True
+USGS,us6000swh0,2026-05-09 14:22:53.489000+00:00,-58.0161,-25.6984,105.606,5.1,South Sandwich Islands region,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swh0,2026-06-04 03:33:02.407882+00:00,Low,True
+USGS,us6000swg6,2026-05-09 09:12:13.223000+00:00,-2.8697,147.7405,10.0,5.0,"106 km SSE of Lorengau, Papua New Guinea",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swg6,2026-06-04 03:33:02.407968+00:00,Low,True
+USGS,us6000swf4,2026-05-09 04:42:23.979000+00:00,51.053,179.2934,38.757,5.8,"297 km WSW of Adak, Alaska",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000swf4,2026-06-04 03:33:02.408055+00:00,Medium,True
+USGS,aka2026jcufoy,2026-05-09 04:42:21.975000+00:00,50.981,179.214,16.3,6.1,"Rat Islands, Aleutian Islands, Alaska",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/aka2026jcufoy,2026-06-04 03:33:02.408143+00:00,Medium,True
+USGS,us6000sw6y,2026-05-08 12:22:31.971000+00:00,-2.8761,147.7722,10.0,5.6,"108 km SSE of Lorengau, Papua New Guinea",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw6y,2026-06-04 03:33:02.408229+00:00,Medium,True
+USGS,us6000sw5q,2026-05-08 07:17:42.791000+00:00,-43.391,91.5605,10.0,5.9,southeast Indian Ridge,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5q,2026-06-04 03:33:02.408330+00:00,Medium,True
+USGS,us6000svw1,2026-05-07 08:53:27.146000+00:00,-27.348,-176.655,35.0,5.4,Kermadec Islands region,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svw1,2026-06-04 03:33:02.408420+00:00,Low,True
+USGS,us6000svu7,2026-05-07 01:23:02.376000+00:00,-5.8139,154.3801,120.273,5.1,"134 km WNW of Panguna, Papua New Guinea",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svu7,2026-06-04 03:33:02.408507+00:00,Low,True
+USGS,us6000svp9,2026-05-06 15:35:49.132000+00:00,7.5271,126.7728,29.0,5.5,"22 km ENE of Baculin, Philippines",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svp9,2026-06-04 03:33:02.408594+00:00,Medium,True
+USGS,us6000svnr,2026-05-06 14:15:32.308000+00:00,52.3404,176.5321,10.0,5.8,"233 km ESE of Attu Station, Alaska",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svnr,2026-06-04 03:33:02.408680+00:00,Medium,True
+USGS,us6000svmz,2026-05-06 11:46:48.800000+00:00,-32.2013,-177.9213,10.0,5.1,south of the Kermadec Islands,green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svmz,2026-06-04 03:33:02.408770+00:00,Low,True
+USGS,us6000svm3,2026-05-06 09:43:13.682000+00:00,-5.7231,154.4237,103.578,5.2,"134 km WNW of Panguna, Papua New Guinea",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svm3,2026-06-04 03:33:02.408856+00:00,Low,True
+USGS,us6000svi6,2026-05-06 04:06:07.673000+00:00,29.8059,70.0624,10.0,5.0,"40 km NW of Dajal, Pakistan",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svi6,2026-06-04 03:33:02.408942+00:00,Low,True
+USGS,us6000svc4,2026-05-05 15:58:27.101000+00:00,-3.5485,-80.6374,51.058,5.1,"15 km NNE of Zorritos, Peru",,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svc4,2026-06-04 03:33:02.409029+00:00,Low,True
+USGS,us6000svbv,2026-05-05 15:09:37.597000+00:00,-35.2228,78.6045,10.0,5.1,Mid-Indian Ridge,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us6000svbv,2026-06-04 03:33:02.409121+00:00,Low,True
+USGS,us7000sidq,2026-05-05 08:00:43.173000+00:00,-36.6471,177.2131,10.0,5.8,"126 km ENE of Pauanui, New Zealand",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sidq,2026-06-04 03:33:02.409208+00:00,Medium,True
+USGS,us7000sicu,2026-05-05 06:44:49.944000+00:00,-10.0638,119.3249,22.0,5.8,"70 km S of Tambolaka, Indonesia",green,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000sicu,2026-06-04 03:33:02.409295+00:00,Medium,True
+USGS,us7000siat,2026-05-05 02:38:50.761000+00:00,-6.3609,130.1036,160.922,5.0,Banda Sea,,0,reviewed,https://earthquake.usgs.gov/earthquakes/eventpage/us7000siat,2026-06-04 03:33:02.409383+00:00,Low,True
+EMSC,20260603_0000250,2026-06-03 17:23:33.900000+00:00,51.5,159.51,-33.0,5.2,OFF EAST COAST OF KAMCHATKA,,,,,2026-06-04 03:33:05.065801+00:00,Low,True
+EMSC,20260603_0000261,2026-06-03 17:23:31.810000+00:00,51.6859,159.34,-5.0,5.5,OFF EAST COAST OF KAMCHATKA,,,,,2026-06-04 03:33:05.066355+00:00,Medium,True
+EMSC,20260603_0000252,2026-06-03 17:21:24.203000+00:00,-8.2012,-74.2436,-139.1,5.2,CENTRAL PERU,,,,,2026-06-04 03:33:05.066856+00:00,Low,True
+EMSC,20260603_0000189,2026-06-03 12:45:39.850000+00:00,40.36,-124.8485,-25.0,5.1,OFFSHORE NORTHERN CALIFORNIA,,,,,2026-06-04 03:33:05.067475+00:00,Low,True
+EMSC,20260603_0000161,2026-06-03 10:53:57.070000+00:00,41.9864,-126.0129,-10.0,5.7,OFF COAST OF NORTHERN CALIFORNIA,,,,,2026-06-04 03:33:05.068151+00:00,Medium,True
+EMSC,20260603_0000153,2026-06-03 10:20:38.840000+00:00,-20.3296,173.0468,-10.0,5.6,VANUATU REGION,,,,,2026-06-04 03:33:05.068791+00:00,Medium,True
+EMSC,20260603_0000100,2026-06-03 06:58:57.420000+00:00,38.857,72.1402,-10.0,5.1,TAJIKISTAN,,,,,2026-06-04 03:33:05.069493+00:00,Low,True
+EMSC,20260601_0000361,2026-06-01 23:01:18.060000+00:00,-2.0857,138.8143,-33.0,5.4,"PAPUA, INDONESIA",,,,,2026-06-04 03:33:05.070326+00:00,Low,True
+EMSC,20260601_0000346,2026-06-01 22:12:36.600000+00:00,39.155,15.821,-250.2,6.2,SOUTHERN ITALY,,,,,2026-06-04 03:33:05.070911+00:00,Medium,True
+EMSC,20260601_0000082,2026-06-01 05:16:16.790000+00:00,-18.099,-178.2238,-582.0,5.0,FIJI REGION,,,,,2026-06-04 03:33:05.071529+00:00,Low,True
+EMSC,20260601_0000060,2026-06-01 03:40:11.110000+00:00,-35.4455,-104.7583,-10.0,5.3,SOUTHEAST OF EASTER ISLAND,,,,,2026-06-04 03:33:05.072122+00:00,Low,True
+EMSC,20260601_0000056,2026-06-01 03:34:31.160000+00:00,30.7109,141.6951,-10.0,5.7,"IZU ISLANDS, JAPAN REGION",,,,,2026-06-04 03:33:05.072828+00:00,Medium,True
+EMSC,20260531_0000345,2026-05-31 21:34:19.040000+00:00,-32.7873,-71.7612,-25.0,6.0,"OFFSHORE VALPARAISO, CHILE",,,,,2026-06-04 03:33:05.073480+00:00,Medium,True
+EMSC,20260531_0000316,2026-05-31 19:15:38.760000+00:00,-30.6986,-178.7158,-107.0,5.0,"KERMADEC ISLANDS, NEW ZEALAND",,,,,2026-06-04 03:33:05.074121+00:00,Low,True
+EMSC,20260531_0000105,2026-05-31 05:57:10.340000+00:00,8.847,126.484,-37.7,5.1,"MINDANAO, PHILIPPINES",,,,,2026-06-04 03:33:05.074687+00:00,Low,True
+EMSC,20260531_0000069,2026-05-31 03:57:04.650000+00:00,-24.1484,-179.5987,-476.2,5.0,SOUTH OF FIJI ISLANDS,,,,,2026-06-04 03:33:05.075388+00:00,Low,True
+EMSC,20260531_0000047,2026-05-31 02:47:57.790000+00:00,-17.3243,167.7695,-10.0,5.0,VANUATU,,,,,2026-06-04 03:33:05.076015+00:00,Low,True
+EMSC,20260530_0000350,2026-05-30 22:45:51.620000+00:00,-7.2756,147.5043,-72.0,5.0,"EASTERN NEW GUINEA REG., P.N.G.",,,,,2026-06-04 03:33:05.076626+00:00,Low,True
+EMSC,20260530_0000319,2026-05-30 21:27:23.640000+00:00,11.9785,-59.1186,-20.0,5.6,"BARBADOS REGION, WINDWARD ISL.",,,,,2026-06-04 03:33:05.077374+00:00,Medium,True
+EMSC,20260530_0000170,2026-05-30 11:06:51.700000+00:00,13.8422,51.6805,-6.5,5.0,GULF OF ADEN,,,,,2026-06-04 03:33:05.077973+00:00,Low,True
+EMSC,20260530_0000008,2026-05-30 00:38:17.290000+00:00,-59.3066,-26.3228,-129.0,5.0,SOUTH SANDWICH ISLANDS REGION,,,,,2026-06-04 03:33:05.078614+00:00,Low,True
+EMSC,20260529_0000355,2026-05-29 21:21:44.050000+00:00,0.9483,-29.182,-10.0,5.2,CENTRAL MID-ATLANTIC RIDGE,,,,,2026-06-04 03:33:05.079251+00:00,Low,True
+EMSC,20260529_0000261,2026-05-29 16:05:58.300000+00:00,50.1179,159.4799,-6.8,5.2,EAST OF KURIL ISLANDS,,,,,2026-06-04 03:33:05.079830+00:00,Low,True
+EMSC,20260529_0000106,2026-05-29 06:55:52.730000+00:00,42.2642,88.2158,-2.6,5.3,"NORTHERN XINJIANG, CHINA",,,,,2026-06-04 03:33:05.080468+00:00,Low,True
+EMSC,20260529_0000088,2026-05-29 05:32:42.520000+00:00,-18.404,-71.2875,-25.0,5.1,"OFF COAST OF TARAPACA, CHILE",,,,,2026-06-04 03:33:05.081053+00:00,Low,True
+EMSC,20260528_0000262,2026-05-28 16:18:09.950000+00:00,19.7448,-109.3626,-10.0,5.3,REVILLA GIGEDO ISLANDS REGION,,,,,2026-06-04 03:33:05.081724+00:00,Low,True
+EMSC,20260528_0000034,2026-05-28 01:46:21.200000+00:00,-10.4422,124.4096,-18.0,5.1,"TIMOR REGION, INDONESIA",,,,,2026-06-04 03:33:05.082363+00:00,Low,True
+EMSC,20260528_0000008,2026-05-28 00:25:22+00:00,51.7826,-175.9296,-60.3,5.2,"ANDREANOF ISLANDS, ALEUTIAN IS.",,,,,2026-06-04 03:33:05.082963+00:00,Low,True
+EMSC,20260527_0000330,2026-05-27 19:09:53.690000+00:00,-17.9497,-176.5099,-7.6,5.3,FIJI REGION,,,,,2026-06-04 03:33:05.083574+00:00,Low,True
+EMSC,20260527_0000248,2026-05-27 15:01:12.660000+00:00,-50.4575,139.4365,-10.0,6.0,WESTERN INDIAN-ANTARCTIC RIDGE,,,,,2026-06-04 03:33:05.084138+00:00,Medium,True
+EMSC,20260527_0000241,2026-05-27 14:51:06.320000+00:00,-50.4665,139.4475,-10.0,6.0,WESTERN INDIAN-ANTARCTIC RIDGE,,,,,2026-06-04 03:33:05.084789+00:00,Medium,True
+EMSC,20260527_0000097,2026-05-27 06:24:20.630000+00:00,0.4441,125.9327,-45.0,5.1,MOLUCCA SEA,,,,,2026-06-04 03:33:05.085384+00:00,Low,True
+EMSC,20260527_0000085,2026-05-27 05:23:31.340000+00:00,-22.2958,-68.7057,-111.0,5.1,"ANTOFAGASTA, CHILE",,,,,2026-06-04 03:33:05.086037+00:00,Low,True
+EMSC,20260526_0000333,2026-05-26 19:25:11.740000+00:00,-17.2548,-174.217,-114.8,5.0,TONGA,,,,,2026-06-04 03:33:05.086638+00:00,Low,True
+EMSC,20260526_0000331,2026-05-26 19:12:32.740000+00:00,-17.6136,-172.911,-3.8,5.4,TONGA REGION,,,,,2026-06-04 03:33:05.087239+00:00,Low,True
+EMSC,20260526_0000324,2026-05-26 18:56:37.120000+00:00,13.0227,57.6409,-6.5,5.1,OWEN FRACTURE ZONE REGION,,,,,2026-06-04 03:33:05.087942+00:00,Low,True
+EMSC,20260526_0000449,2026-05-26 16:22:50.810000+00:00,-58.6773,-152.6056,-10.0,5.1,PACIFIC-ANTARCTIC RIDGE,,,,,2026-06-04 03:33:05.088639+00:00,Low,True
+EMSC,20260526_0000041,2026-05-26 02:08:03.210000+00:00,-28.3762,-176.4831,-4.2,5.3,KERMADEC ISLANDS REGION,,,,,2026-06-04 03:33:05.089245+00:00,Low,True
+EMSC,20260525_0000358,2026-05-25 21:52:18.750000+00:00,-22.4628,-68.5826,-95.0,6.9,"ANTOFAGASTA, CHILE",,,,,2026-06-04 03:33:05.090007+00:00,Medium,True
+EMSC,20260525_0000333,2026-05-25 20:39:20.900000+00:00,1.0854,126.1342,-30.0,5.6,MOLUCCA SEA,,,,,2026-06-04 03:33:05.090872+00:00,Medium,True
+EMSC,20260525_0000246,2026-05-25 15:00:31.090000+00:00,-4.7349,153.18,-65.0,5.0,"NEW IRELAND REGION, P.N.G.",,,,,2026-06-04 03:33:05.091548+00:00,Low,True
+EMSC,20260525_0000147,2026-05-25 09:25:39.380000+00:00,-53.3909,25.0627,-10.0,5.0,SOUTH OF AFRICA,,,,,2026-06-04 03:33:05.092296+00:00,Low,True
+EMSC,20260525_0000037,2026-05-25 02:32:38.030000+00:00,8.0616,126.8872,-33.0,5.0,"MINDANAO, PHILIPPINES",,,,,2026-06-04 03:33:05.093026+00:00,Low,True
+EMSC,20260524_0000287,2026-05-24 16:48:42.280000+00:00,9.2923,126.2605,-40.0,5.5,"MINDANAO, PHILIPPINES",,,,,2026-06-04 03:33:05.093736+00:00,Medium,True
+EMSC,20260524_0000226,2026-05-24 13:19:06.630000+00:00,9.1813,126.4985,-59.2,5.0,"MINDANAO, PHILIPPINES",,,,,2026-06-04 03:33:05.094514+00:00,Low,True
+EMSC,20260523_0000336,2026-05-23 21:49:17.770000+00:00,51.847,-170.4737,-10.0,5.3,"FOX ISLANDS, ALEUTIAN ISLANDS",,,,,2026-06-04 03:33:05.095195+00:00,Low,True
+EMSC,20260523_0000387,2026-05-23 19:19:06.540000+00:00,-35.6313,-104.9417,-10.0,5.3,SOUTHEAST OF EASTER ISLAND,,,,,2026-06-04 03:33:05.095891+00:00,Low,True
+EMSC,20260523_0000179,2026-05-23 12:40:26.410000+00:00,-4.6048,102.5905,-50.0,5.2,"SOUTHERN SUMATRA, INDONESIA",,,,,2026-06-04 03:33:05.096611+00:00,Low,True
+EMSC,20260523_0000112,2026-05-23 07:46:01.300000+00:00,19.3181,-155.8507,-13.3,5.9,"ISLAND OF HAWAII, HAWAII",,,,,2026-06-04 03:33:05.097242+00:00,Medium,True
+EMSC,20260523_0000087,2026-05-23 05:41:35.100000+00:00,-47.5015,99.9445,-10.0,5.6,SOUTHEAST INDIAN RIDGE,,,,,2026-06-04 03:33:05.097907+00:00,Medium,True
+EMSC,20260522_0000334,2026-05-22 19:30:38.640000+00:00,-10.7422,164.3555,-9.5,5.3,SANTA CRUZ ISLANDS REGION,,,,,2026-06-04 03:33:05.098486+00:00,Low,True
+EMSC,20260522_0000308,2026-05-22 17:16:27.530000+00:00,33.5581,90.2261,-10.0,5.1,XIZANG-QINGHAI BORDER REGION,,,,,2026-06-04 03:33:05.099149+00:00,Low,True
+EMSC,20260522_0000211,2026-05-22 12:16:13.230000+00:00,52.5624,-171.8231,-4.4,5.6,"FOX ISLANDS, ALEUTIAN ISLANDS",,,,,2026-06-04 03:33:05.099762+00:00,Medium,True
+EMSC,20260522_0000170,2026-05-22 10:08:23.100000+00:00,-2.9296,147.7219,-29.0,5.7,"ADMIRALTY ISLANDS REGION, P.N.G.",,,,,2026-06-04 03:33:05.100435+00:00,Medium,True
+EMSC,20260522_0000020,2026-05-22 01:06:53.940000+00:00,16.5797,-46.6521,-14.0,5.1,NORTHERN MID-ATLANTIC RIDGE,,,,,2026-06-04 03:33:05.101042+00:00,Low,True
+EMSC,20260522_0000016,2026-05-22 01:05:09.690000+00:00,1.0784,126.139,-40.0,5.9,MOLUCCA SEA,,,,,2026-06-04 03:33:05.101696+00:00,Medium,True
+EMSC,20260520_0000409,2026-05-20 23:00:58.630000+00:00,-56.1002,-27.9302,-113.0,5.7,SOUTH SANDWICH ISLANDS REGION,,,,,2026-06-04 03:33:05.102344+00:00,Medium,True
+EMSC,20260520_0000347,2026-05-20 18:36:39.632000+00:00,-54.7454,-118.6623,-10.0,5.0,SOUTHERN EAST PACIFIC RISE,,,,,2026-06-04 03:33:05.102920+00:00,Low,True
+EMSC,20260520_0000343,2026-05-20 18:36:17.280000+00:00,-55.6609,-123.8659,-4.7,5.2,SOUTHERN EAST PACIFIC RISE,,,,,2026-06-04 03:33:05.103567+00:00,Low,True
+EMSC,20260520_0000327,2026-05-20 17:43:01.910000+00:00,-56.0536,-122.4529,-5.7,6.6,SOUTHERN EAST PACIFIC RISE,,,,,2026-06-04 03:33:05.104121+00:00,Medium,True
+EMSC,20260520_0000171,2026-05-20 10:28:49.430000+00:00,-8.1388,119.2466,-10.0,5.2,"FLORES REGION, INDONESIA",,,,,2026-06-04 03:33:05.104779+00:00,Low,True
+EMSC,20260520_0000149,2026-05-20 09:40:32.170000+00:00,-17.2974,176.1782,-10.0,5.1,FIJI REGION,,,,,2026-06-04 03:33:05.105446+00:00,Low,True
+EMSC,20260520_0000076,2026-05-20 06:00:16.880000+00:00,38.2942,38.5703,-7.0,5.4,EASTERN TURKEY,,,,,2026-06-04 03:33:05.106121+00:00,Low,True
+EMSC,20260520_0000032,2026-05-20 02:46:25.520000+00:00,27.5147,128.5748,-42.6,5.9,"RYUKYU ISLANDS, JAPAN",,,,,2026-06-04 03:33:05.106929+00:00,Medium,True
+EMSC,20260520_0000069,2026-05-20 02:46:19.670000+00:00,-41.2787,-89.6684,-18.0,5.0,SOUTHEAST OF EASTER ISLAND,,,,,2026-06-04 03:33:05.107499+00:00,Low,True
+EMSC,20260519_0000313,2026-05-19 20:40:43.960000+00:00,40.3411,63.0949,-10.0,5.0,WESTERN UZBEKISTAN,,,,,2026-06-04 03:33:05.108156+00:00,Low,True
+EMSC,20260519_0000266,2026-05-19 17:57:55.540000+00:00,-14.1924,-75.5292,-64.0,5.8,NEAR COAST OF CENTRAL PERU,,,,,2026-06-04 03:33:05.108745+00:00,Medium,True
+EMSC,20260519_0000035,2026-05-19 02:29:25.430000+00:00,-18.1505,168.1495,-32.0,5.7,VANUATU,,,,,2026-06-04 03:33:05.109377+00:00,Medium,True
+EMSC,20260518_0000321,2026-05-18 18:50:00.730000+00:00,-54.1597,-1.3004,-10.0,5.3,BOUVET ISLAND REGION,,,,,2026-06-04 03:33:05.110107+00:00,Low,True
+EMSC,20260518_0000235,2026-05-18 13:44:26.740000+00:00,24.5448,109.2283,-10.0,5.1,"GUANGXI, CHINA",,,,,2026-06-04 03:33:05.110797+00:00,Low,True
+EMSC,20260518_0000130,2026-05-18 07:34:30.840000+00:00,-28.5239,74.3035,-10.0,5.2,MID-INDIAN RIDGE,,,,,2026-06-04 03:33:05.111442+00:00,Low,True
+EMSC,20260518_0000029,2026-05-18 02:10:41.980000+00:00,-43.4608,-82.5374,-10.0,5.4,WEST CHILE RISE,,,,,2026-06-04 03:33:05.112024+00:00,Low,True
+EMSC,20260518_0000027,2026-05-18 02:05:23.770000+00:00,16.4749,96.3648,-2.9,5.2,NEAR SOUTH COAST OF MYANMAR,,,,,2026-06-04 03:33:05.112723+00:00,Low,True
+EMSC,20260517_0000340,2026-05-17 22:58:33.760000+00:00,-6.4512,147.5689,-73.0,5.0,"EASTERN NEW GUINEA REG., P.N.G.",,,,,2026-06-04 03:33:05.113600+00:00,Low,True
+EMSC,20260517_0000244,2026-05-17 16:21:05.100000+00:00,24.4511,109.264,0.0,5.1,"GUANGXI, CHINA",,,,,2026-06-04 03:33:05.114208+00:00,Low,True
+EMSC,20260517_0000113,2026-05-17 08:04:18.030000+00:00,50.8861,157.2732,-44.9,5.4,KURIL ISLANDS,,,,,2026-06-04 03:33:05.115057+00:00,Low,True
+EMSC,20260517_0000108,2026-05-17 07:51:57.420000+00:00,-2.8714,147.7393,-10.0,5.1,"ADMIRALTY ISLANDS REGION, P.N.G.",,,,,2026-06-04 03:33:05.115946+00:00,Low,True
+EMSC,20260516_0000194,2026-05-16 15:58:04.640000+00:00,-17.8846,169.1535,-8.7,5.5,VANUATU,,,,,2026-06-04 03:33:05.116590+00:00,Medium,True
+EMSC,20260516_0000186,2026-05-16 15:17:57.340000+00:00,-8.5838,160.8256,-30.4,5.7,SOLOMON ISLANDS,,,,,2026-06-04 03:33:05.117202+00:00,Medium,True
+EMSC,20260516_0000181,2026-05-16 14:50:05.920000+00:00,17.3654,-61.337,-50.1,6.0,ANTIGUA AND BARBUDA REGION,,,,,2026-06-04 03:33:05.117885+00:00,Medium,True
+EMSC,20260516_0000175,2026-05-16 14:07:55.070000+00:00,-17.7836,169.1719,-10.0,5.2,VANUATU,,,,,2026-06-04 03:33:05.118418+00:00,Low,True
+EMSC,20260516_0000154,2026-05-16 12:59:31.300000+00:00,-17.8952,169.2074,-10.0,5.3,VANUATU,,,,,2026-06-04 03:33:05.118920+00:00,Low,True
+EMSC,20260516_0000138,2026-05-16 11:25:43.780000+00:00,6.8786,124.7814,-10.0,5.0,"MINDANAO, PHILIPPINES",,,,,2026-06-04 03:33:05.119455+00:00,Low,True
+EMSC,20260516_0000082,2026-05-16 06:48:55.430000+00:00,-32.0523,-178.1355,-10.0,5.0,SOUTH OF KERMADEC ISLANDS,,,,,2026-06-04 03:33:05.119960+00:00,Low,True
+EMSC,20260515_0000144,2026-05-15 11:22:01.850000+00:00,38.9442,142.0504,-40.0,6.7,"NEAR EAST COAST OF HONSHU, JAPAN",,,,,2026-06-04 03:33:05.120445+00:00,Medium,True
+EMSC,20260515_0000015,2026-05-15 01:14:00.270000+00:00,-2.9726,147.7639,-10.0,5.4,"ADMIRALTY ISLANDS REGION, P.N.G.",,,,,2026-06-04 03:33:05.120911+00:00,Low,True
+EMSC,20260514_0000247,2026-05-14 17:53:14.670000+00:00,-6.1749,130.4016,-146.3,6.2,BANDA SEA,,,,,2026-06-04 03:33:05.121392+00:00,Medium,True
+EMSC,20260514_0000215,2026-05-14 15:34:11.940000+00:00,24.8936,141.3606,-155.0,5.2,"VOLCANO ISLANDS, JAPAN REGION",,,,,2026-06-04 03:33:05.121919+00:00,Low,True
+EMSC,20260514_0000170,2026-05-14 12:48:21.210000+00:00,4.1355,-76.6408,-104.0,5.3,COLOMBIA,,,,,2026-06-04 03:33:05.122690+00:00,Low,True
+EMSC,20260514_0000142,2026-05-14 09:55:46.810000+00:00,-58.3684,-25.5672,-50.0,5.1,SOUTH SANDWICH ISLANDS REGION,,,,,2026-06-04 03:33:05.123308+00:00,Low,True
+EMSC,20260513_0000375,2026-05-13 22:01:06.980000+00:00,19.1232,121.2082,-35.0,5.3,"BABUYAN ISL REGION, PHILIPPINES",,,,,2026-06-04 03:33:05.123851+00:00,Low,True
+EMSC,20260513_0000127,2026-05-13 08:12:59.700000+00:00,-55.3842,-28.3479,-25.0,5.1,SOUTH SANDWICH ISLANDS REGION,,,,,2026-06-04 03:33:05.124417+00:00,Low,True
+EMSC,20260513_0000097,2026-05-13 06:36:40.060000+00:00,-55.4177,-28.3233,-25.0,5.0,SOUTH SANDWICH ISLANDS REGION,,,,,2026-06-04 03:33:05.124915+00:00,Low,True
+EMSC,20260513_0000051,2026-05-13 03:08:31.290000+00:00,30.306,138.5436,-435.0,5.1,"IZU ISLANDS, JAPAN REGION",,,,,2026-06-04 03:33:05.125407+00:00,Low,True
+EMSC,20260512_0000350,2026-05-12 21:53:53.050000+00:00,-21.2546,-174.3422,-75.4,5.1,TONGA,,,,,2026-06-04 03:33:05.125919+00:00,Low,True
+EMSC,20260512_0000335,2026-05-12 21:19:36.800000+00:00,-23.3406,-176.8242,-153.2,5.7,SOUTH OF FIJI ISLANDS,,,,,2026-06-04 03:33:05.126492+00:00,Medium,True
+EMSC,20260512_0000249,2026-05-12 15:39:30.960000+00:00,-10.5844,164.9806,-65.0,5.6,SANTA CRUZ ISLANDS REGION,,,,,2026-06-04 03:33:05.127139+00:00,Medium,True
+EMSC,20260512_0000135,2026-05-12 08:53:56.600000+00:00,4.8339,127.5697,-109.0,5.0,"KEPULAUAN TALAUD, INDONESIA",,,,,2026-06-04 03:33:05.128073+00:00,Low,True
+EMSC,20260512_0000106,2026-05-12 06:53:32.070000+00:00,23.24,121.54,-22.9,5.1,TAIWAN,,,,,2026-06-04 03:33:05.129122+00:00,Low,True
+EMSC,20260512_0000064,2026-05-12 03:45:43.090000+00:00,-10.1994,161.2203,-64.0,5.0,SOLOMON ISLANDS,,,,,2026-06-04 03:33:05.129972+00:00,Low,True
+EMSC,20260511_0000161,2026-05-11 09:48:53.760000+00:00,-9.3116,159.1873,-23.0,5.2,SOLOMON ISLANDS,,,,,2026-06-04 03:33:05.130514+00:00,Low,True
+EMSC,20260511_0000033,2026-05-11 01:41:16.560000+00:00,27.3958,129.4862,-2.7,5.1,"RYUKYU ISLANDS, JAPAN",,,,,2026-06-04 03:33:05.131025+00:00,Low,True
+EMSC,20260510_0000479,2026-05-10 23:20:54.390000+00:00,-23.4482,-179.8369,-528.4,5.0,SOUTH OF FIJI ISLANDS,,,,,2026-06-04 03:33:05.131554+00:00,Low,True
+EMSC,20260510_0000470,2026-05-10 23:15:41.770000+00:00,-23.4528,-179.8969,-537.7,5.1,SOUTH OF FIJI ISLANDS,,,,,2026-06-04 03:33:05.132055+00:00,Low,True
+EMSC,20260510_0000406,2026-05-10 19:36:37+00:00,20.5034,94.0994,-57.0,5.0,MYANMAR,,,,,2026-06-04 03:33:05.132565+00:00,Low,True
+EMSC,20260510_0000355,2026-05-10 16:41:43.280000+00:00,-16.7584,-173.4126,-10.0,5.3,TONGA,,,,,2026-06-04 03:33:05.133069+00:00,Low,True
+EMSC,20260510_0000348,2026-05-10 16:34:33.860000+00:00,-5.2707,145.6303,-97.2,5.3,"EASTERN NEW GUINEA REG., P.N.G.",,,,,2026-06-04 03:33:05.133584+00:00,Low,True
+EMSC,20260510_0000052,2026-05-10 02:42:23.860000+00:00,-7.0223,131.9415,-10.0,5.0,"KEP. TANIMBAR REGION, INDONESIA",,,,,2026-06-04 03:33:05.134085+00:00,Low,True
+EMSC,20260510_0000040,2026-05-10 02:34:07.950000+00:00,-37.7215,-73.027,-36.0,5.3,"BIO-BIO, CHILE",,,,,2026-06-04 03:33:05.134620+00:00,Low,True
+EMSC,20260509_0000322,2026-05-09 20:39:53.700000+00:00,-27.0125,-176.6523,-40.0,5.3,KERMADEC ISLANDS REGION,,,,,2026-06-04 03:33:05.135124+00:00,Low,True
+EMSC,20260509_0000293,2026-05-09 14:22:47.320000+00:00,-57.9923,-25.3555,-53.0,5.1,SOUTH SANDWICH ISLANDS REGION,,,,,2026-06-04 03:33:05.135640+00:00,Low,True
+EMSC,20260509_0000135,2026-05-09 09:12:18.190000+00:00,-2.9219,147.7474,-41.0,5.0,"ADMIRALTY ISLANDS REGION, P.N.G.",,,,,2026-06-04 03:33:05.136138+00:00,Low,True
+EMSC,20260509_0000062,2026-05-09 04:57:58.720000+00:00,41.5145,-125.2512,-10.0,5.0,OFFSHORE NORTHERN CALIFORNIA,,,,,2026-06-04 03:33:05.136648+00:00,Low,True
+EMSC,20260509_0000058,2026-05-09 04:42:20.180000+00:00,51.0881,179.3078,-5.7,5.8,"RAT ISLANDS, ALEUTIAN ISLANDS",,,,,2026-06-04 03:33:05.137158+00:00,Medium,True
+EMSC,20260508_0000199,2026-05-08 12:22:34.710000+00:00,-2.916,147.7293,-29.0,5.6,"ADMIRALTY ISLANDS REGION, P.N.G.",,,,,2026-06-04 03:33:05.137668+00:00,Medium,True
+EMSC,20260508_0000108,2026-05-08 07:17:44.430000+00:00,-43.3846,91.7042,-10.0,5.9,SOUTHEAST INDIAN RIDGE,,,,,2026-06-04 03:33:05.138167+00:00,Medium,True
+EMSC,20260507_0000169,2026-05-07 11:48:41.400000+00:00,-17.9441,-178.0064,-582.0,5.1,FIJI REGION,,,,,2026-06-04 03:33:05.138675+00:00,Low,True
+EMSC,20260507_0000131,2026-05-07 08:53:27.090000+00:00,-27.3997,-176.6255,-41.2,5.3,KERMADEC ISLANDS REGION,,,,,2026-06-04 03:33:05.139506+00:00,Low,True
+EMSC,20260507_0000021,2026-05-07 01:23:03.560000+00:00,-5.7111,154.3974,-130.3,5.1,"BOUGAINVILLE REGION, P.N.G.",,,,,2026-06-04 03:33:05.140247+00:00,Low,True
+EMSC,20260506_0000333,2026-05-06 19:19:18.150000+00:00,-59.6149,-24.1804,-10.0,5.0,SOUTH SANDWICH ISLANDS REGION,,,,,2026-06-04 03:33:05.141050+00:00,Low,True
+EMSC,20260506_0000265,2026-05-06 15:35:46.290000+00:00,7.6347,126.8249,-7.6,5.5,"MINDANAO, PHILIPPINES",,,,,2026-06-04 03:33:05.141613+00:00,Medium,True
+EMSC,20260506_0000240,2026-05-06 14:15:32.620000+00:00,52.2583,176.4711,-2.8,5.8,"RAT ISLANDS, ALEUTIAN ISLANDS",,,,,2026-06-04 03:33:05.142240+00:00,Medium,True
+EMSC,20260506_0000200,2026-05-06 11:46:49.600000+00:00,-32.2763,-178.0141,-10.0,5.6,SOUTH OF KERMADEC ISLANDS,,,,,2026-06-04 03:33:05.142934+00:00,Medium,True
+EMSC,20260506_0000161,2026-05-06 09:43:13.740000+00:00,-5.675,154.4456,-105.0,5.2,"BOUGAINVILLE REGION, P.N.G.",,,,,2026-06-04 03:33:05.143711+00:00,Low,True
+EMSC,20260505_0000351,2026-05-05 15:58:27.020000+00:00,-3.5338,-80.6617,-49.0,5.1,PERU-ECUADOR BORDER REGION,,,,,2026-06-04 03:33:05.144307+00:00,Low,True
+EMSC,20260505_0000343,2026-05-05 15:09:37.860000+00:00,-35.2309,78.5996,-10.5,5.1,MID-INDIAN RIDGE,,,,,2026-06-04 03:33:05.144987+00:00,Low,True
+EMSC,20260505_0000157,2026-05-05 08:00:48.070000+00:00,-36.7019,177.1727,-35.0,5.8,"OFF E. COAST OF N. ISLAND, N.Z.",,,,,2026-06-04 03:33:05.145621+00:00,Medium,True
+EMSC,20260505_0000131,2026-05-05 06:44:54.970000+00:00,-10.0149,119.3153,-58.0,5.8,"SUMBA REGION, INDONESIA",,,,,2026-06-04 03:33:05.146207+00:00,Medium,True
+EMSC,20260505_0000043,2026-05-05 02:38:49.180000+00:00,-6.4098,130.091,-143.0,5.3,BANDA SEA,,,,,2026-06-04 03:33:05.146896+00:00,Low,True
+Earthquakes Canada Scraping,,,,,,,"2026-05-30: M=4.0 - 161 km W of Cape Bathurst, NT - offshore",,,scraped_text_only,/recent/2026/20260530.2139/index-en.php,2026-06-04 03:33:06.453193+00:00,Unknown,False
